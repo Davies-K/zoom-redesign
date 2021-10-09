@@ -1,0 +1,6 @@
+{
+  "appTitle": "zoom",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
